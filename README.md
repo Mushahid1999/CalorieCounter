@@ -4,6 +4,6 @@ Coded a web application, where it is able to accept input from a user. In this c
 * All files are attached
 
 ## How to View
-*Download the project and open the CalorieCounterindex.html file in your browser after downloading the CalorieCounterStyless.css and CalorieCounterScript.js alongside in a code editor such as VSC for example
+* Download the project and open the CalorieCounterindex.html file in your browser after downloading the CalorieCounterStyless.css and CalorieCounterScript.js alongside in a code editor such as VSC for example
 * Below is a screenshot for context
   ![image](https://github.com/user-attachments/assets/010ee8d8-02ff-438b-af4e-13945901b301)
